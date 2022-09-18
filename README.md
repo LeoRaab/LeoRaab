@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoRaab
 - 👀 I’m interested in Web/App Development
-- 🌱 I’m currently learning Redux, Three.js
+- 🌱 I’m currently learning NestJs, Three.js
 - 📫 leopold.raab@gmail.com
 
 <!---
